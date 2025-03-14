@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.topo {
+    background-color: dimgray;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.menu {
+    background-color: rgb(136, 136, 136);
+}
+
+.menu a {
+    text-decoration: none;
+    color: white;
+    padding: 14px 16px;
+}
+
+.coluna {
+    width: 50%;
+    background-color: burlywood;
+    float: left;
+    /* border: black;
+    border-width: 1;
+    border-style: solid; */
+}
+
+.coluna h4 {
+    text-align: center;
+}
+
+.coluna p {
+    padding-left: 8px;
+}
+
+#titulo {
+    color: brown;
+}
